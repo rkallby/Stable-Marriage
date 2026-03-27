@@ -1,3 +1,3 @@
 This program was created by Riley Kalb and Cole Thomas
-This program solves the Stable Marriage Algorithm Progblem
+This program solves the Stable Marriage Algorithm Problem
 It also has a gui made by using swing.
